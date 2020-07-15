@@ -8,4 +8,4 @@
 
 Nesse desafio, tive que criar uma aplicação para treinar o que eu aprendi no módulo inicial de ReactJS!
 
-Agora tive que continuar desenvolvendo a aplicação que irá armazenar repositórios do meu portifólio, que já desenvolvi o backend no último desafio utilizando o Node.js.
+Continuei desenvolvendo a aplicação que irá armazenar repositórios do meu portifólio, que já desenvolvi o backend no último desafio utilizando o Node.js.
