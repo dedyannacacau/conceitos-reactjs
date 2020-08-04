@@ -10,10 +10,3 @@ Nesse desafio, tive que criar uma aplicação para treinar o que eu aprendi no m
 
 Continuei desenvolvendo a aplicação que irá armazenar repositórios do meu portifólio, que já desenvolvi o backend no último desafio utilizando o Node.js.
 
-
-## :computer: Tecnologias
-
-O projeto foi desenvolvido com as tecnologias:
-
-- [React](https://reactjs.org/)
-- [Axios](https://github.com/axios/axios)
